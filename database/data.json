@@ -1,0 +1,145 @@
+{
+    "priceData" : [
+      {
+        "id":1,
+        "title": "5 HOURS",
+        "icon": "assets/imgs/scooter.svg",
+        "features": [
+          "accusamus reprehenderit",
+          "provident dolorem",
+          "quos neque",
+          "fugiat quibusdam",
+          "<i class='ti-close'></i>",
+          "<i class='ti-close'></i>"
+        ],
+        "price": "0.00/Month",
+        "active": true,
+        "subscribe_url": "#",
+        "order": 1
+      },
+      {
+        "id":2,
+        "title": "10 HOURS",
+        "icon": "assets/imgs/shipped.svg",
+        "features": [
+          "accusamus reprehenderit",
+          "provident dolorem",
+          "quos neque",
+          "fugiat quibusdam",
+          "accusamus laboriosam"
+        ],
+        "price": "9.99/Month",
+        "active": true,
+        "subscribe_url": "#",
+        "order": 2
+      },
+      {
+        "id":3,
+        "title": "20 HOURS",
+        "icon": "assets/imgs/startup.svg",
+        "features": [
+          "accusamus reprehenderit",
+          "provident dolorem",
+          "quos neque",
+          "fugiat quibusdam",
+          "accusamus laboriosam",
+          "inventore omnis"
+        ],
+        "price": "99.9/Month",
+        "active": true,
+        "subscribe_url": "#",
+        "order": 3
+      },
+      {
+        "id":4,
+        "title": "Premium",
+        "icon": "assets/imgs/startup.svg",
+        "features": [
+          "accusamus reprehenderit",
+          "provident dolorem",
+          "quos neque",
+          "fugiat quibusdam",
+          "accusamus laboriosam",
+          "inventore omnis"
+        ],
+        "price": "99.9/Month",
+        "active": true,
+        "subscribe_url": "#",
+        "order": 3
+      }
+    ],
+
+    "testomonials" : [
+      {
+        "active": true,
+        "created_on": "2023-12-31",
+        "id": 1,
+        "img_src": "assets/imgs/avatar2.jpg",
+        "subtitle": "I've worked closely with Sonu on various projects. Their expertise in Shopify customization is exceptional. They bring innovation and a personalized touch to every task, consistently delivering top-notch quality.",
+        "title": "Mohala Eyewear"
+      },
+      {
+        "active": true,
+        "created_on": "2023-12-31",
+        "id": 2,
+        "img_src": "assets/imgs/avatar3.jpg",
+        "subtitle": "Sonu's skill set in WordPress development is remarkable. Their solutions perfectly cater to unique requirements, and they've been instrumental in driving our business growth through their exceptional work.",
+        "title": "Dorothy"
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "icon": "assets/imgs/shopify.png",
+        "title": "Shopify customization",
+        "subtitle": "Offering customized Shopify solutions, including theme customization and app development.",
+        "status": "active",
+        "date": "2023-12-15"
+      },
+      {
+        "id": 2,
+        "icon": "assets/imgs/wordpress.png",
+        "title": "Wordpress development",
+        "subtitle": "Offering tailored WordPress themes, plugins, and personalized solutions for unique needs.",
+        "status": "inactive",
+        "date": "2023-12-16"
+      },
+      {
+        "id": 3,
+        "icon": "assets/imgs/website.png",
+        "title": "Website development",
+        "subtitle": "Offering complete website solutions: E-commerce, API integrations, and robust blogging capabilities.",
+        "status": "active",
+        "date": "2023-12-17"
+      },
+      {
+        "id": 4,
+        "icon": "assets/imgs/automation.png",
+        "title": "Automation",
+        "subtitle": "I'm proficient in Zapier, Pabbly, and SureTriggers for streamlined automation processes.",
+        "status": "inactive",
+        "date": "2023-12-18"
+      }
+    ],
+    "projects": [
+      {
+        "imgSrc": "assets/imgs/folio-1.jpg",
+        "title": "SureTriggers ",
+        "category": "Category: - Automations Have Never Been This Easy",
+        "url":"https://suretriggers.com/"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-2.jpg",
+        "title": "SureWriter",
+        "category": "Category: AI Content Generator and Writing Assistant",
+        "url":"https://surewriter.com/"
+      },
+      {
+        "imgSrc": "assets/imgs/folio-3.jpg",
+        "title": "Nojoto",
+        "category": "Category: Web Development",
+        "url":"https://nojoto.com/"
+      }
+    ]   
+    
+}

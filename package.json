@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "compile-sass": "node-sass assets/scss/main.scss -o assets/css/"
+  },
+  
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
